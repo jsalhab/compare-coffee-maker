@@ -1,0 +1,53 @@
+.compare {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col12 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-top: 28px;
+}
+
+.table {
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 13px 21px -5px rgba(0, 0, 0, 0.05);
+  border: 1px solid #eee;
+  font-size: 18px;
+  table-layout: fixed;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  text-align: center;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+}
+
+th {
+  border-top: 1px solid #dee2e6;
+  padding: 25px;
+  font-weight: 500;
+}
+
+tr {
+  padding: 0.75rem;
+  border-top: 1px solid #dee2e6;
+}
+
+.key {
+  font-size: 20px;
+  color: #393c45;
+  font-weight: 400;
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  text-align: left;
+  padding-left: 45px;
+}

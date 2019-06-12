@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 1,
+      "title": "Citiz & Milk",
+      "description": "Citiz & Milk",
+      "color": ["white"],
+      "price": 10,
+      "isFreeShipping": true,
+      "quantity": 0
+    },
+
+    {
+      "id": 2,
+      "sku": 2,
+      "title": "Essenza Mini Ruby",
+      "description": "Essenza Mini Ruby",
+      "color": ["Red", "Green"],
+      "price": 14.9,
+      "isFreeShipping": true,
+      "quantity": 0
+    },
+
+    {
+      "id": 3,
+      "sku": 3,
+      "title": "Essenza Mini Piano",
+      "description": "Essenza Mini Piano",
+      "color": ["Black", "White"],
+      "price": 14.9,
+      "isFreeShipping": true,
+      "quantity": 0
+    },
+
+    {
+      "id": 4,
+      "sku": 4,
+      "title": "Creatista Plus",
+      "description": "Creatista Plus",
+      "color": ["Chrome"],
+      "price": 25.9,
+      "isFreeShipping": false,
+      "quantity": 0
+    },
+
+    {
+      "id": 5,
+      "sku": 5,
+      "title": "Citiz",
+      "description": "Citiz",
+      "color": ["Red", "Chrome"],
+      "price": 10.9,
+      "isFreeShipping": false,
+      "quantity": 0
+    },
+
+    {
+      "id": 6,
+      "sku": 6,
+      "title": "Lattissima One - Mocha",
+      "description": "Lattissima One - Mocha",
+      "color": ["Brown", "White"],
+      "price": 49.9,
+      "isFreeShipping": false,
+      "quantity": 0
+    },
+
+    {
+      "id": 7,
+      "sku": 7,
+      "title": "Lattissima Touch - Milky",
+      "description": "Lattissima Touch - Milky",
+      "color": ["Black", "White", "Grey"],
+      "style": "Preto com listras brancas",
+      "price": 22.5,
+      "isFreeShipping": true,
+      "quantity": 0
+    },
+
+    {
+      "id": 8,
+      "sku": 8,
+      "title": "Lattissima Pro",
+      "description": "Lattissima Pro",
+      "color": ["White", "Chrome"],
+      "style": "Azul escuro",
+      "price": 18.7,
+      "isFreeShipping": false,
+      "quantity": 0
+    }
+  ]
+}
